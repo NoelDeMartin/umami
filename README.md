@@ -6,6 +6,6 @@ If you're looking for my recipes app, it's called [Umai](https://github.com/noel
 
 ![Yotsuba](img/yotsuba.jpg)
 
-![Yotsuba 2](img/yotsuba2.jpg)
+![Yotsuba 2](img/yotsuba2.png)
 
 ![Pochi Kuro](img/pochikuro.jpg)
